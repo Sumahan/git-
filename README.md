@@ -5,12 +5,14 @@ git命令行以及仓库的使用
 <pre>
 $ ssh-keygen -t rsa -C "youremail@example.com"
 </pre>
-![image](https://github.com/Sumahan/learning-git/blob/master/%E5%88%9B%E5%BB%BASSH-KEY.jpg)
+![image](https://github.com/Sumahan/learning-git/blob/master/ssh.jpg)
 
 在user目录下找到id_rsa.pub,复制里边的内容：
+
 ![image](https://github.com/Sumahan/learning-git/blob/master/key.jpg)
 
 打开github，进入setting页面，找到ssh：
+
 ![image](https://github.com/Sumahan/learning-git/blob/master/add_key.jpg)
 最后点击add key
 
