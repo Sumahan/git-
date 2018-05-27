@@ -9,3 +9,8 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 在user目录下找到id_rsa.pub,复制里边的内容：
 ![image](https://github.com/Sumahan/learning-git/blob/master/key.jpg)
 
+打开github，进入setting页面，找到ssh：
+![image](https://github.com/Sumahan/learning-git/blob/master/add_key.jpg)
+最后点击add key
+
+
