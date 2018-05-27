@@ -6,3 +6,6 @@ git命令行以及仓库的使用
 $ ssh-keygen -t rsa -C "youremail@example.com"
 </pre>
 ![image](https://github.com/Sumahan/learning-git/blob/master/%E5%88%9B%E5%BB%BASSH-KEY.jpg)
+生成目录：
+![image](https://github.com/Sumahan/learning-git/blob/master/key.jpg)
+
